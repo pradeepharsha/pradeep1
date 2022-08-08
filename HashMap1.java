@@ -5,6 +5,7 @@ import java.util.Map;
 
 public class HashMap1 {
 	
+
 	static Map <Integer,String> mp = new HashMap <Integer,String>();
 
 	public static void main(String[] args) 
